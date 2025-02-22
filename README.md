@@ -2,6 +2,8 @@
 
 Pallas’s Hub is an innovative web application designed to serve as a comprehensive platform for researchers and scholars to collaborate, share knowledge, and secure funding opportunities. It addresses the fragmented nature of current tools by offering integrated features tailored to the needs of the scientific community. 
 
+Here is a [demo video](https://youtu.be/X_bikxs6rh8) of our web app, Pallas’s Hub.
+
 ## Development Set Up
 
 ### Prerequisites
